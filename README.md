@@ -7,3 +7,5 @@ Call usnig two positional arguments:
 ```
 ./beer.sh Vikram 21
 ```
+
+Copyright &copy; 2021 | [Vikram Negi](https://twitter.com/lostvikx)
